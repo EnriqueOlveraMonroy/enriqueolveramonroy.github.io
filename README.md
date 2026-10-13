@@ -4,7 +4,7 @@ A bilingual professional portfolio showcasing my background in KYC operations, B
 
 The interface opens in English and includes a Spanish language option.
 
-[Data project repository](https://github.com/EnriqueOlveraMonroy/Data_Portfolio) · [LinkedIn](https://www.linkedin.com/in/enrique-olvera-monroy) · [Guía de publicación en español](GUIA_GITHUB_PAGES.md)
+[Data project repository](https://github.com/EnriqueOlveraMonroy/Data_Portfolio) · [LinkedIn](https://www.linkedin.com/in/enrique-olvera-monroy) 
 
 ![Portfolio preview](docs/preview.png)
 
@@ -59,44 +59,6 @@ No package installation, build command, database, API key or application server 
 ├── .nojekyll               # Serve the prepared static files
 └── .gitignore
 ```
-
-## Run locally
-
-Open `index.html` in a browser for a quick preview. For a local HTTP preview, run the following from this repository's directory if Python 3 is installed:
-
-```sh
-python3 -m http.server 8000 --bind 127.0.0.1
-```
-
-Then visit [the local preview](http://127.0.0.1:8000/). Stop the local server with `Ctrl+C`.
-
-Python is only an optional preview tool; it is not part of the website runtime.
-
-## Deploy to GitHub Pages
-
-Upload the contents of this repository to GitHub, with `index.html` at the repository root. In **Settings → Pages**, select **Deploy from a branch**, then **main** and **/(root)**, and save. Keep the included `.nojekyll` file at the root. See the [official publishing-source guide](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
-The package supports both a user website and a project website because its local resource paths are relative. The [Spanish deployment guide](GUIA_GITHUB_PAGES.md) covers repository creation, upload, activation, updates and troubleshooting.
-
-The Northwestern and Tu Lado B applications remain on their existing hosting services. GitHub Pages hosts this portfolio and links to those applications.
-
-## Update the portfolio
-
-| Change | Files to update |
-| --- | --- |
-| English page copy, professional details and links | `index.html` |
-| Spanish translations and image-preview text | `app.js` |
-| Notebook project descriptions and links | `portfolioProjects` in `app.js` and the initial directory in `index.html` |
-| Colors, typography and layout | `styles.css` |
-| Dashboard screenshots, portrait, certificate or CV | Corresponding files in `assets/` |
-
-Keep filenames and capitalization consistent. If replacing an asset with a differently named file, update its references in both HTML and JavaScript where applicable. Preserve the `assets/covers/` folder structure.
-
-## Español
-
-Portafolio profesional de Enrique Olvera Monroy orientado a oportunidades remotas en datos. Reúne experiencia laboral, formación, proyectos de análisis, dashboards y aplicaciones web personales. El sitio conserva una estética minimalista y editorial y permite cambiar entre inglés y español.
-
-Para publicarlo sin usar la terminal, sigue la [guía completa de GitHub Pages](GUIA_GITHUB_PAGES.md).
 
 ## Author
 
