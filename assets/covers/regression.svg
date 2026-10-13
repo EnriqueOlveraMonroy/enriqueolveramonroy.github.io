@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">Regression model exploration</title><desc id="desc">Illustrative scatter points, a straight fitted line, and a curved model trace. The composition is conceptual and contains no observed results, axes, or measured values.</desc>
+<rect width="960" height="600" fill="#e7ecdf"/>
+<path d="M104 440C240 437 314 372 426 319C563 256 644 134 858 148L858 234C676 232 591 334 446 389C307 443 231 482 104 481Z" fill="#b8dfaa" opacity=".58"/>
+<path d="M104 462C268 459 313 396 439 354C586 305 668 176 856 191" fill="none" stroke="#092b25" stroke-width="4" stroke-linecap="round"/>
+<path d="M112 458L846 158" fill="none" stroke="#5d7c64" stroke-width="2" stroke-dasharray="10 10"/>
+<g fill="#f7f7ef" stroke="#47684f" stroke-width="2">
+<circle cx="133" cy="414" r="7"/><circle cx="162" cy="476" r="7"/><circle cx="187" cy="429" r="7"/>
+<circle cx="221" cy="467" r="7"/><circle cx="253" cy="401" r="7"/><circle cx="276" cy="367" r="7"/>
+<circle cx="314" cy="417" r="7"/><circle cx="353" cy="360" r="7"/><circle cx="372" cy="405" r="7"/>
+<circle cx="406" cy="311" r="7"/><circle cx="434" cy="372" r="7"/><circle cx="474" cy="325" r="7"/>
+<circle cx="502" cy="287" r="7"/><circle cx="529" cy="344" r="7"/><circle cx="562" cy="244" r="7"/>
+<circle cx="602" cy="278" r="7"/><circle cx="632" cy="209" r="7"/><circle cx="663" cy="246" r="7"/>
+<circle cx="694" cy="164" r="7"/><circle cx="726" cy="230" r="7"/><circle cx="758" cy="144" r="7"/>
+<circle cx="791" cy="210" r="7"/><circle cx="821" cy="181" r="7"/>
+</g>
+<g fill="#092b25"><circle cx="253" cy="401" r="4"/><circle cx="406" cy="311" r="4"/><circle cx="562" cy="244" r="4"/><circle cx="694" cy="164" r="4"/><circle cx="821" cy="181" r="4"/></g>
+</svg>

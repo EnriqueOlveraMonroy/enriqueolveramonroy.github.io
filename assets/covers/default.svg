@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">A decision tree for credit default</title><desc id="desc">Conceptual branching diagram for a credit default classification exercise. Its branches do not represent measured outcomes.</desc>
+<rect width="960" height="600" fill="#f7f7ef"/>
+<g fill="none" stroke="#799783" stroke-width="2.5">
+<path d="M480 168V218Q480 240 455 240H303Q280 240 280 264V282"/>
+<path d="M480 168V218Q480 240 505 240H657Q680 240 680 264V282"/>
+<path d="M280 330V365Q280 384 259 384H181Q160 384 160 405V432"/>
+<path d="M280 330V365Q280 384 301 384H379Q400 384 400 405V432"/>
+<path d="M680 330V365Q680 384 659 384H581Q560 384 560 405V432"/>
+<path d="M680 330V365Q680 384 701 384H779Q800 384 800 405V432"/>
+</g>
+<rect x="436" y="84" width="88" height="88" rx="7" transform="rotate(45 480 128)" fill="#092b25"/>
+<path d="M459 124H501M480 107V150M466 143L480 157L494 143" fill="none" stroke="#b8dfaa" stroke-width="3"/>
+<rect x="227" y="282" width="106" height="53" rx="27" fill="#b8dfaa" stroke="#799783"/>
+<rect x="627" y="282" width="106" height="53" rx="27" fill="#e2e9dc" stroke="#799783"/>
+<circle cx="280" cy="308" r="9" fill="#092b25"/><circle cx="680" cy="308" r="9" fill="#092b25"/>
+<g fill="#f7f7ef" stroke="#799783" stroke-width="1.5">
+<rect x="104" y="432" width="112" height="73" rx="6"/>
+<rect x="344" y="432" width="112" height="73" rx="6"/>
+<rect x="504" y="432" width="112" height="73" rx="6"/>
+<rect x="744" y="432" width="112" height="73" rx="6"/>
+</g>
+<rect x="104" y="432" width="112" height="73" rx="6" fill="#092b25"/>
+<rect x="504" y="432" width="112" height="73" rx="6" fill="#092b25"/>
+<path d="M128 458H192M128 477H174M528 458H592M528 477H574" stroke="#b8dfaa" stroke-width="3"/>
+<path d="M368 458H432M368 477H414M768 458H832M768 477H814" stroke="#789887" stroke-width="3"/>
+</svg>

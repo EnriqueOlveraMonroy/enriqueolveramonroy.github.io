@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">International debt exploration</title><desc id="desc">A schematic globe and directional flows illustrate exploration of international debt data. Routes are conceptual, not geographic data or financial results.</desc>
+<rect width="960" height="600" fill="#092b25"/>
+<circle cx="386" cy="300" r="212" fill="#123b31" stroke="#8dab91" stroke-width="1.5"/>
+<g fill="none" stroke="#74957d" stroke-width="1" opacity=".7">
+<ellipse cx="386" cy="300" rx="212" ry="80"/><ellipse cx="386" cy="300" rx="212" ry="149"/>
+<ellipse cx="386" cy="300" rx="76" ry="212"/><ellipse cx="386" cy="300" rx="150" ry="212"/>
+<path d="M174 300H598M386 88V512"/>
+</g>
+<g fill="none" stroke-linecap="round">
+<path d="M242 220C288 86 574 77 765 158" stroke="#b8dfaa" stroke-width="3"/>
+<path d="M332 374C457 221 690 179 809 302" stroke="#f7f7ef" stroke-width="2"/>
+<path d="M269 264C323 437 578 524 744 448" stroke="#b8dfaa" stroke-width="2.5"/>
+<path d="M204 387C136 442 90 354 121 262C147 183 180 152 237 128" stroke="#8dab91" stroke-width="1.5"/>
+</g>
+<g fill="#b8dfaa"><circle cx="242" cy="220" r="6"/><circle cx="332" cy="374" r="6"/><circle cx="269" cy="264" r="6"/></g>
+<g fill="#092b25" stroke="#b8dfaa" stroke-width="2"><circle cx="785" cy="167" r="24"/><circle cx="824" cy="319" r="24"/><circle cx="766" cy="438" r="24"/></g>
+<g fill="none" stroke="#f7f7ef" stroke-width="2"><path d="M777 167H793M787 161L793 167L787 173M816 319H832M826 313L832 319L826 325M758 438H774M768 432L774 438L768 444"/></g>
+<circle cx="204" cy="387" r="5" fill="#8dab91"/><circle cx="237" cy="128" r="5" fill="#8dab91"/>
+</svg>

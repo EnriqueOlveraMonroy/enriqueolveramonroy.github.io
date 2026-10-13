@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">Transaction anomaly exploration</title><desc id="desc">Conceptual cover showing a payment card connected to a transaction network, with one distinct signal. This is an illustration, not measured project output.</desc>
+<rect width="960" height="600" fill="#092b25"/>
+<g fill="none" stroke="#789887" stroke-width="2">
+<path d="M350 300H418Q456 300 456 262V180Q456 148 488 148H575"/>
+<path d="M350 300H585"/>
+<path d="M350 300H418Q456 300 456 338V422Q456 452 488 452H575"/>
+<path d="M593 148H639Q677 148 677 184V245Q677 280 711 280H777"/>
+<path d="M603 300H652Q690 300 690 338V396H758"/>
+<path d="M593 452H641Q677 452 677 419V347Q677 322 704 322H777"/>
+<path d="M594 148V281M594 319V433" stroke-dasharray="4 9" opacity=".45"/>
+</g>
+<g fill="#123b31" stroke="#9ebbab" stroke-width="2">
+<circle cx="594" cy="148" r="18"/><circle cx="594" cy="300" r="18"/>
+<circle cx="594" cy="452" r="18"/><circle cx="796" cy="280" r="18"/>
+<circle cx="796" cy="322" r="8"/>
+</g>
+<rect x="98" y="204" width="269" height="186" rx="14" fill="#001c17" opacity=".3"/>
+<rect x="88" y="194" width="269" height="186" rx="14" fill="#f7f7ef"/>
+<rect x="118" y="226" width="44" height="34" rx="6" fill="#b8dfaa" stroke="#799783"/>
+<path d="M132 226V260M148 226V260M118 243H162" stroke="#799783"/>
+<path d="M119 319H270M119 338H213" stroke="#96a698" stroke-width="5"/>
+<path d="M308 226Q328 245 308 264M299 232Q313 245 299 258" fill="none" stroke="#092b25" stroke-width="3"/>
+<g transform="translate(796 396)">
+<circle r="39" fill="#123b31" stroke="#b8dfaa" stroke-width="2"/>
+<circle r="28" fill="#b8dfaa"/>
+<path d="M-11 0H-4L1-10L6 10L11 0H18" fill="none" stroke="#092b25" stroke-width="3" stroke-linejoin="round"/>
+<circle r="54" fill="none" stroke="#b8dfaa" stroke-width="1" stroke-dasharray="2 8" opacity=".55"/>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc"><title id="title">Exploring an audiovisual catalogue</title><desc id="desc">An editorial arrangement of film frames and catalogue records evokes exploratory analysis of audiovisual content. There are no brand marks or actual data values.</desc>
+<rect width="960" height="600" fill="#f7f7ef"/>
+<g transform="translate(104 83) rotate(-6 138 184)">
+<rect width="276" height="369" rx="8" fill="#dbe4d5"/>
+<rect x="18" y="18" width="240" height="264" rx="3" fill="#5c8067"/>
+<path d="M18 282V228L86 160L143 217L207 126L258 188V282Z" fill="#b8dfaa" opacity=".6"/>
+<circle cx="89" cy="93" r="31" fill="#dbe4d5"/>
+<path d="M27 307H163M27 327H223M27 342H182" stroke="#6d8671" stroke-width="4"/>
+</g>
+<g transform="translate(372 137) rotate(4 151 181)">
+<rect x="8" y="9" width="302" height="362" rx="8" fill="#092b25" opacity=".1"/>
+<rect width="302" height="362" rx="8" fill="#092b25"/>
+<rect x="18" y="18" width="266" height="239" rx="3" fill="#244b3a"/>
+<circle cx="151" cy="137" r="61" fill="none" stroke="#729b7b" stroke-width="1.5"/>
+<path d="M135 110L177 137L135 164Z" fill="#b8dfaa"/>
+<path d="M29 287H160M29 310H256M29 333H213" stroke="#89a98e" stroke-width="4"/>
+</g>
+<g transform="translate(721 142)">
+<rect width="129" height="77" rx="5" fill="#e2e9db" stroke="#b4c4ae"/>
+<rect y="109" width="129" height="77" rx="5" fill="#e2e9db" stroke="#b4c4ae"/>
+<rect y="218" width="129" height="77" rx="5" fill="#e2e9db" stroke="#b4c4ae"/>
+<g fill="#6d8f73"><rect x="14" y="16" width="26" height="45" rx="2"/><rect x="14" y="125" width="26" height="45" rx="2"/><rect x="14" y="234" width="26" height="45" rx="2"/></g>
+<path d="M54 26H110M54 42H102M54 58H91M54 135H110M54 151H90M54 167H105M54 244H110M54 260H99M54 276H87" stroke="#81987d" stroke-width="3"/>
+</g>
+</svg>
