@@ -1,0 +1,12 @@
+/* Progressive fallback: content and actual links remain usable without scripts. */
+.languages,
+.menu-toggle,
+.filters,
+.zoom-badge {
+  display: none !important;
+}
+@media (max-width: 700px) {
+  #mobile-nav[hidden] {
+    display: block !important;
+  }
+}
